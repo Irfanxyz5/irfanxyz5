@@ -37,21 +37,15 @@ Greetings! I'm Irfan, the visionary behind Ipanzx Development. I specialize in b
 ---
 
 ### 🚀 Core Specializations
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Frontend_Engineering-Modern_Architect-00F2FF?style=for-the-badge&logo=react&logoColor=black" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Botz_Development-Automation_Expert-FF0055?style=for-the-badge&logo=probot&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/UI/UX_Design-Visual_Artisan-7F00FF?style=for-the-badge&logo=figma&logoColor=white" />
-  </a>
-</div>
 
 <div align="center">
-  <p><i>Crafting high-performance digital solutions with precision and aesthetic excellence.</i></p>
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=%F0%9F%8E%A8+Frontend+Engineering" alt="Frontend" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=%F0%9F%A4%96+Botz+Development" alt="Botz" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=%F0%9F%92%8E+UI%2FUX+Design" alt="UIUX" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=%F0%9F%A7%A0+Prompt+Engineering" alt="Prompt" />
 
 ---
 
