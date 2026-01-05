@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ipanzx%20Web%20Dev&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
 # ⚡ Building the Future of Web with Code
-### **Specialized in Web Development & Python Scripting**
+### **Specialization in Web Development**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
@@ -30,10 +30,10 @@
   <table border="0">
     <tr>
       <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calvin&include_all_commits=true&count_private=true" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irfanxyz5&show_icons=true&theme=calvin&include_all_commits=true&count_private=true" />
       </td>
       <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=4&theme=calvin" />
+        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanxyz5&layout=compact&langs_count=4&theme=calvin" />
       </td>
     </tr>
   </table>
