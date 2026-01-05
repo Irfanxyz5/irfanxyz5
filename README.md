@@ -1,61 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=70A1FF&text=IPANZX%20WEB%20DEV&fontSize=70&desc=Modern%20Web%20Architect&descSize=20&descAlignVertical=75&animation=fadeIn" width="100%" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/.github/assets/border-anim.gif" width="180" style="border-radius: 50%;" />
 
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences;Fullstack+Web+Developer;Design+Enthusiast" alt="Typing SVG" />
-  </h3>
-
-  <p>
-    <img src="https://img.shields.io/badge/-Frontend-333333?style=flat&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/-Backend-333333?style=flat&logo=node.js&logoColor=6DA55F" />
-    <img src="https://img.shields.io/badge/-UI/UX-333333?style=flat&logo=figma&logoColor=F24E1E" />
+  <div align="center">
+  <img src="https://github.com/irfanxyz5.png" width="180" style="border-radius: 50%; border: 4px solid #00F2FF; box-shadow: 0 0 20px #00F2FF;" />
+</div>
+  
+  <h1 align="center">✨ Ipanzx Developer ✨</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Frontend+Specialist;Botz+Developer;UI/UX+Designer" alt="Typing SVG" />
   </p>
 </div>
 
 ---
 
-### 🌑 About Me
-Seorang Web Developer yang percaya bahwa **kesederhanaan adalah puncak dari kerumitan**. Berpengalaman dalam membangun ekosistem web yang responsif, cepat, dan memiliki visual yang memukau.
+### ⚡ About My Journey
+Greetings! I'm Irfan, the visionary behind Ipanzx Development. I specialize in bridging the gap between sophisticated design and robust technical functionality. My approach blends minimalist aesthetics with robust back-end logic to create high-performance digital solutions.
 
-- 🔭 **Project Saat Ini:** Membangun solusi web skala enterprise.
-- ⚡ **Filosofi:** Menulis kode seolah-olah orang yang akan merawatnya adalah seorang psikopat yang tahu di mana Anda tinggal.
-- 💬 **Tanya saya tentang:** React, Next.js, Tailwind, dan Animasi CSS.
+* 🔭 **Currently Building:** Various websites I'm passionate about.
+* 🌱 **Knowledge Seeker:** Mastering Multiple Programming Languages.
+* ⚡ **Core Belief:** *"Code is the poetry of logic; design is the soul of interaction."*
 
 ---
 
-### 💻 Skills & Tech Stack
+### 🎓 Academic Background
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,figma" />
+  <table>
+    <tr>
+      <td>
+        <b>SMAN 1 PEKALONGAN</b><br>
+      </td>
+      <td align="right"><code>2024 — Present</code></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Stats (Lux Design)
+### 🚀 Expertise & Specializations
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
+  <table border="0">
+    <tr>
+      <td align="center" width="30%">
+        <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="45" alt="Frontend"/><br/>
+        <b>Frontend Engineering</b>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="45" alt="Bot"/><br/>
+        <b>Botz Development</b>
+      </td>
+      <td align="center" width="30%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260211.png" width="45" alt="UIUX"/><br/>
+        <b>UI/UX Design</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 📱 Social Media
-<p align="left">
-  <a href="https://instagram.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@kamu.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🛠️ Professional Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 Performance Analytics
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfanxyz5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ipanzx Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfanxyz5&layout=compact&langs_count=7&theme=tokyonight" alt="Ipanzx Languages" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irfanxyz5&label=Digital%20Footprint&color=00f2ff&style=flat-square" />
 </p>
 
 ---
 
-### 🎮 Play Game (Contribution Snake)
+### 🎮 Contribution Grid (Snake Game)
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/irfanxyz5/irfanxyz5/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+---
+
+### 📱 Connect with the Studio
+<div align="center">
+  <a href="https://instagram.com/panzxiorzy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@YOUR_USERNAME"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://wa.me/6285183978270"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/panzxiorzyy"><img src="https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://facebook.com/panzxiorzy"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FF&height=100&section=footer" width="100%"/>
 </p>
