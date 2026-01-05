@@ -1,83 +1,61 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=70A1FF&text=IPANZX%20WEB%20DEV&fontSize=70&desc=Modern%20Web%20Architect&descSize=20&descAlignVertical=75&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ipanzx%20Web%20Dev&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences;Fullstack+Web+Developer;Design+Enthusiast" alt="Typing SVG" />
+  </h3>
 
-# ⚡ Building the Future of Web with Code
-### **Specialization in Web Development**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styling-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logic-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🚀 Core Expertise
-*Keseimbangan antara struktur, estetika, dan logika.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,py&theme=dark" />
-
-<br/>
+  <p>
+    <img src="https://img.shields.io/badge/-Frontend-333333?style=flat&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Backend-333333?style=flat&logo=node.js&logoColor=6DA55F" />
+    <img src="https://img.shields.io/badge/-UI/UX-333333?style=flat&logo=figma&logoColor=F24E1E" />
+  </p>
+</div>
 
 ---
 
-### 📊 Professional Insights
+### 🌑 About Me
+Seorang Web Developer yang percaya bahwa **kesederhanaan adalah puncak dari kerumitan**. Berpengalaman dalam membangun ekosistem web yang responsif, cepat, dan memiliki visual yang memukau.
+
+- 🔭 **Project Saat Ini:** Membangun solusi web skala enterprise.
+- ⚡ **Filosofi:** Menulis kode seolah-olah orang yang akan merawatnya adalah seorang psikopat yang tahu di mana Anda tinggal.
+- 💬 **Tanya saya tentang:** React, Next.js, Tailwind, dan Animasi CSS.
+
+---
+
+### 💻 Skills & Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,figma" />
+</div>
+
+---
+
+### 📊 GitHub Stats (Lux Design)
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=irfanxyz5&show_icons=true&theme=calvin&include_all_commits=true&count_private=true" />
-      </td>
-      <td>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanxyz5&layout=compact&langs_count=4&theme=calvin" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" />
 </div>
 
 ---
 
-### 🏗️ Projects & Repositories
-*Eksplorasi dalam dunia Web & Otomasi.*
-
-| 📁 Repository | 🛠️ Stack | 🌟 Description |
-| :--- | :--- | :--- |
-| **Responsive-UI** | `HTML` `CSS` | Desain layout modern yang sepenuhnya responsif. |
-| **JS-Interactive** | `JavaScript` | Aplikasi web dinamis dengan manipulasi DOM tingkat lanjut. |
-| **Py-Automation** | `Python` | Script cerdas untuk otomasi tugas harian. |
-
----
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&area=true&hide_border=true" width="100%" />
-
----
-
-### 📫 Connect With Me
-<p align="center">
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/yourig"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+### 📱 Social Media
+<p align="left">
+  <a href="https://instagram.com/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:email@kamu.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+---
 
+### 🎮 Play Game (Contribution Snake)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-<!--
-**Irfanxyz5/irfanxyz5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</p>
