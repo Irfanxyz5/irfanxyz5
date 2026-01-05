@@ -36,24 +36,21 @@ Greetings! I'm Irfan, the visionary behind Ipanzx Development. I specialize in b
 
 ---
 
-### 🚀 Expertise & Specializations
+### 🚀 Core Specializations
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="30%">
-        <img src="https://cdn-icons-png.flaticon.com/512/3159/3159310.png" width="45" alt="Frontend"/><br/>
-        <b>Frontend Engineering</b>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="45" alt="Bot"/><br/>
-        <b>Botz Development</b>
-      </td>
-      <td align="center" width="30%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1260/1260211.png" width="45" alt="UIUX"/><br/>
-        <b>UI/UX Design</b>
-      </td>
-    </tr>
-  </table>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Frontend_Engineering-Modern_Architect-00F2FF?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Botz_Development-Automation_Expert-FF0055?style=for-the-badge&logo=probot&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/UI/UX_Design-Visual_Artisan-7F00FF?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <p><i>Crafting high-performance digital solutions with precision and aesthetic excellence.</i></p>
 </div>
 
 ---
@@ -88,9 +85,14 @@ Greetings! I'm Irfan, the visionary behind Ipanzx Development. I specialize in b
 
 ---
 
-### 🎮 Contribution Grid (Snake Game)
+### 🎮 Digital Ecosystem (Active Simulation)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/irfanxyz5/irfanxyz5/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/irfanxyz5/irfanxyz5/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SNAKE_SPEED-OVERCLOCK-00F2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DATA_CONSUMPTION-MAX-white?style=for-the-badge" />
 </div>
 
 ---
