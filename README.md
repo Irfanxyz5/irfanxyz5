@@ -37,19 +37,11 @@
 
 ## 📊 Performance
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>📈 GitHub Statistics</b><br/>
-      <!-- Ganti username 'ipanzx' dengan username GitHub asli Anda -->
-      <img src="https://github-readme-stats.vercel.app/api?username=irfanxyz5 &show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <b>💻 Top Languages</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanxyz5 &layout=compact&theme=radical" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irfanxyz5&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ipanzx Stats" />
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irfanxyz5&layout=compact&langs_count=7&theme=tokyonight" alt="Ipanzx Languages" />
+</div>
 
 ## 🌐 Connect with Me
 
