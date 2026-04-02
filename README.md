@@ -6,11 +6,11 @@
   <h1>Muhammad Irfan Irsyad</h1>
   
   <p>
-    <em>Greetings! I'm Irfan, the visionary behind Ipanzx Development. I specialize in bridging the gap between sophisticated design and seamless frontend interactivity. My approach blends minimalist aesthetics with robust UI logic to create high-performance, responsive digital experiences.</em>
+    <em>Greetings! I'm Irfan, the visionary behind Ipanzx Web Developer. I specialize in bridging the gap between sophisticated design and seamless frontend interactivity. My approach blends minimalist aesthetics with robust UI logic to create high-performance, responsive digital experiences.</em>
   </p>
   
   <!-- SEPARATOR -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Architect;UI+%2F+UX+Enthusiast;React+%26+TypeScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+%2F+UX+Enthusiast;React+%26+TypeScript+Expert" alt="Typing SVG" />
   
   <hr />
   
@@ -42,11 +42,11 @@
     <td align="center">
       <b>📈 GitHub Statistics</b><br/>
       <!-- Ganti username 'ipanzx' dengan username GitHub asli Anda -->
-      <img src="https://github-readme-stats.vercel.app/api?username=ipanzx&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=irfanxyz5 &show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <b>💻 Top Languages</b><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipanzx&layout=compact&theme=radical" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanxyz5 &layout=compact&theme=radical" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -54,15 +54,15 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/ipanzx" target="_blank">
+  <a href="https://instagram.com/panzxiorzy" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" width="40" height="40" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ipanzx" target="_blank">
+  <a href="https://github.com/irfanxyz5" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" height="40" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/ipanzx" target="_blank">
+  <a href="https://t.me/panzxiorzyy" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" width="40" height="40" alt="Telegram"/>
   </a>
   &nbsp;&nbsp;
@@ -72,8 +72,3 @@
 </p>
 
 <hr />
-
-<div align="center">
-  <sub>✨ Desain modern dengan proporsi 1:1 untuk semua logo dan foto. ✨</sub><br/>
-  <sub>⚠️ <strong>Catatan:</strong> Ganti username `ipanzx` di link media sosial dan GitHub Stats, serta URL foto profil Anda.</sub>
-</div>
