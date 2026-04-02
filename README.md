@@ -34,7 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VSCode"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://raw.githubusercontent.com/termux/termux-app/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="50" height="50" alt="Termux"/>
-  <img src="https://raw.githubusercontent.com/deadlyjack/Acode/master/static/icon.png" width="50" height="50" alt="Acode"/>
 </p>
 
 ## 📊 Performance
