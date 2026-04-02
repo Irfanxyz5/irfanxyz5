@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- FOTO 1:1 - Ganti URL dengan foto Anda (ukuran 150x150px, bisa berbentuk lingkaran atau persegi) -->
-  <img src="https://d.top4top.io/p_37396lh2z1.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Irfan Irsyad">
+  <img src="https://d.top4top.io/p_37396lh2z1.jpg" width="200" height="200" style="border-radius: 50%; object-fit: cover;" alt="Muhammad Irfan Irsyad">
   
   <h1>Muhammad Irfan Irsyad</h1>
   
