@@ -10,7 +10,7 @@
   </p>
   
   <!-- SEPARATOR -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+%2F+UX+Enthusiast;React+%26+TypeScript+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;UI+%2F+UX+Enthusiast;React+%26+TypeScript+Junior" alt="Typing SVG" />
   
   <hr />
   
